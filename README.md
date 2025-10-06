@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there, I'm Tawashiy 👋
 
-<!--
-**Tawashiy/Tawashiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here you'll find my projects, experiments, and contributions.
 
-Here are some ideas to get you started:
+## About Me
+- 🌱 I'm currently learning React, TypeScript, Tailwind CSS and more...
+- 💻 I'm a software engineer passionate about building web apps
+- ⚡ Fun fact: I love exploring new technologies and coding challenges
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects
+Here are some of my projects:
+
+- [comming soon](https://github.com/Tawashiy/Tawashiy/edit/main/README.md) - keep an eye on
+
+## Skills
+- Languages: JavaScript, TypeScript, Python, PostgresSQL
+- Frameworks: React, Node.js
+- Tools: Git, GitHub, Docker, AWS
