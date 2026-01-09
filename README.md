@@ -10,7 +10,7 @@ Welcome to my GitHub profile! Here you'll find my projects, experiments, and con
 ## My Projects
 Here are some of my projects:
 
-- 🚶‍➡️[Wanderow](https://wanderow.com/) - A random walking path will be generated to find your wonder in new paths.
+- 🚶‍➡️[Random Route Generator](https://random-route-generator.vercel.app/) - A random walking path will be generated to find your wonder in new paths.
 
 ## Skills
 - Languages: JavaScript, TypeScript, Python, PostgresSQL
